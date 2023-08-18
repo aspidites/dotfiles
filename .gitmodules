@@ -1,0 +1,3 @@
+[submodule "nvim"]
+	path = config/nvim
+	url = git@github.com:aspidites/nvim.git
